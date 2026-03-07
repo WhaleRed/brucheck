@@ -4,6 +4,7 @@ A basic password strength checker with a GUI.<br>
 Shows how strong your password is.<br>
 Shows the expected time it takes to brute force your password on offline attacks.<br>
 Shows the longest time it takes to brute force your password on offline attacks.<br>
+Brute-force attack only<br>
 
 
 ## Goals
