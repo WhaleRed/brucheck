@@ -1,4 +1,4 @@
-# Password Strength Checker
+# BruCheck
 
 A basic password strength checker with a GUI.<br>
 Shows how strong your password is.<br>
